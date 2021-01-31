@@ -6,8 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string a = ?";
-            Console.WriteLine(a.Remove(2,14));
+            int a = 5;
+            int b = 6;
+            Console.WriteLine(a);
         }
     }
 }
