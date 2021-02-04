@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Алина\\1Работы - копия\\т вузовское все\\Сессия\\Программирование\\Песочница\\GitHub\\Alinasap\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\Алина\\1Работы - копия\\т вузовское все\\Сессия\\Программирование\\Песочница\\GitHub\\Alinasap\\Chess1_0\\Chess1_0\\Chess1_0.csproj": {}
   },
   "projects": {
-    "E:\\Алина\\1Работы - копия\\т вузовское все\\Сессия\\Программирование\\Песочница\\GitHub\\Alinasap\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\Алина\\1Работы - копия\\т вузовское все\\Сессия\\Программирование\\Песочница\\GitHub\\Alinasap\\Chess1_0\\Chess1_0\\Chess1_0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Алина\\1Работы - копия\\т вузовское все\\Сессия\\Программирование\\Песочница\\GitHub\\Alinasap\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "E:\\Алина\\1Работы - копия\\т вузовское все\\Сессия\\Программирование\\Песочница\\GitHub\\Alinasap\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\Алина\\1Работы - копия\\т вузовское все\\Сессия\\Программирование\\Песочница\\GitHub\\Alinasap\\Chess1_0\\Chess1_0\\Chess1_0.csproj",
+        "projectName": "Chess1_0",
+        "projectPath": "E:\\Алина\\1Работы - копия\\т вузовское все\\Сессия\\Программирование\\Песочница\\GitHub\\Alinasap\\Chess1_0\\Chess1_0\\Chess1_0.csproj",
         "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
-        "outputPath": "E:\\Алина\\1Работы - копия\\т вузовское все\\Сессия\\Программирование\\Песочница\\GitHub\\Alinasap\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "E:\\Алина\\1Работы - копия\\т вузовское все\\Сессия\\Программирование\\Песочница\\GitHub\\Alinasap\\Chess1_0\\Chess1_0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Александр\\AppData\\Roaming\\NuGet\\NuGet.Config",

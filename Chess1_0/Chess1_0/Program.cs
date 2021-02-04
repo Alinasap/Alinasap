@@ -10,28 +10,28 @@ namespace Chess1_0
             int dy = Math.Abs(end[1] - start[1]);
             return (dx == 1 && dy == 1) || (dx == 0 && dy == 1);
         }
-       
+
         private static bool IsRookCorrect(string start, string end)
         {
             int dx = Math.Abs(end[0] - start[0]);
             int dy = Math.Abs(end[1] - start[1]);
             return (dx > 0 && dy == 0) || (dx == 0 && dy > 0);
         }
-        
+
         private static bool IsBishopCorrect(string start, string end)
         {
             int dx = Math.Abs(end[0] - start[0]);
             int dy = Math.Abs(end[1] - start[1]);
             return (dx == dy) && (dx != 0) && (dy != 0);
         }
-     
+
         private static bool IsQueenCorrect(string start, string end)
         {
-           int dx = Math.Abs(end[0] - start[0]);
-           int dy = Math.Abs(end[1] - start[1]);
-           return (dx == dy) && (dx != 0) && (dy != 0) || (dx > 0 && dy == 0) || (dx == 0 && dy > 0);
+            int dx = Math.Abs(end[0] - start[0]);
+            int dy = Math.Abs(end[1] - start[1]);
+            return (dx == dy) && (dx != 0) && (dy != 0) || (dx > 0 && dy == 0) || (dx == 0 && dy > 0);
         }
-    
+
         private static bool IsKnightCorrect(string start, string end)
         {
             int dx = Math.Abs(end[0] - start[0]);
@@ -104,7 +104,7 @@ namespace Chess1_0
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Добро пожаловать в игру <<Шахматы>>. Пожалуйста, выберите тип фигуры.");
+            Console.WriteLine("Добро пожаловать в игру «Шахматы». Пожалуйста, выберите тип фигуры.");
             FigureType figure = ReadFigureType();
             Console.WriteLine("Введите начальную координату.");
             string start = ReadCoord();
@@ -137,7 +137,6 @@ namespace Chess1_0
             else
                 Console.WriteLine("Фигура ходит не правильно.");
             Console.ReadKey();
-
-        }
-    }
+        }  
+    }      
 }

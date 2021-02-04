@@ -1,0 +1,13 @@
+E:\Алина\1Работы - копия\т вузовское все\Сессия\Программирование\Песочница\GitHub\Alinasap\Chess1_0\Chess1_0\bin\Debug\netcoreapp3.1\Chess1_0.exe
+E:\Алина\1Работы - копия\т вузовское все\Сессия\Программирование\Песочница\GitHub\Alinasap\Chess1_0\Chess1_0\bin\Debug\netcoreapp3.1\Chess1_0.deps.json
+E:\Алина\1Работы - копия\т вузовское все\Сессия\Программирование\Песочница\GitHub\Alinasap\Chess1_0\Chess1_0\bin\Debug\netcoreapp3.1\Chess1_0.runtimeconfig.json
+E:\Алина\1Работы - копия\т вузовское все\Сессия\Программирование\Песочница\GitHub\Alinasap\Chess1_0\Chess1_0\bin\Debug\netcoreapp3.1\Chess1_0.runtimeconfig.dev.json
+E:\Алина\1Работы - копия\т вузовское все\Сессия\Программирование\Песочница\GitHub\Alinasap\Chess1_0\Chess1_0\bin\Debug\netcoreapp3.1\Chess1_0.dll
+E:\Алина\1Работы - копия\т вузовское все\Сессия\Программирование\Песочница\GitHub\Alinasap\Chess1_0\Chess1_0\bin\Debug\netcoreapp3.1\Chess1_0.pdb
+E:\Алина\1Работы - копия\т вузовское все\Сессия\Программирование\Песочница\GitHub\Alinasap\Chess1_0\Chess1_0\obj\Debug\netcoreapp3.1\Chess1_0.csprojAssemblyReference.cache
+E:\Алина\1Работы - копия\т вузовское все\Сессия\Программирование\Песочница\GitHub\Alinasap\Chess1_0\Chess1_0\obj\Debug\netcoreapp3.1\Chess1_0.AssemblyInfoInputs.cache
+E:\Алина\1Работы - копия\т вузовское все\Сессия\Программирование\Песочница\GitHub\Alinasap\Chess1_0\Chess1_0\obj\Debug\netcoreapp3.1\Chess1_0.AssemblyInfo.cs
+E:\Алина\1Работы - копия\т вузовское все\Сессия\Программирование\Песочница\GitHub\Alinasap\Chess1_0\Chess1_0\obj\Debug\netcoreapp3.1\Chess1_0.csproj.CoreCompileInputs.cache
+E:\Алина\1Работы - копия\т вузовское все\Сессия\Программирование\Песочница\GitHub\Alinasap\Chess1_0\Chess1_0\obj\Debug\netcoreapp3.1\Chess1_0.dll
+E:\Алина\1Работы - копия\т вузовское все\Сессия\Программирование\Песочница\GitHub\Alinasap\Chess1_0\Chess1_0\obj\Debug\netcoreapp3.1\Chess1_0.pdb
+E:\Алина\1Работы - копия\т вузовское все\Сессия\Программирование\Песочница\GitHub\Alinasap\Chess1_0\Chess1_0\obj\Debug\netcoreapp3.1\Chess1_0.genruntimeconfig.cache
