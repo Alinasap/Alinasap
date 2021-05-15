@@ -12,17 +12,17 @@ int main()
 
     __asm
     {
-        xor esi, esi //обнуляем, ESI -32 бита, индекс источника, сожержит текущий адрес элемента в цепочке-источнике; 
-        mov esi, 1 //счетчик
+        mov ecx, 0; // обнуляем счетчик цикла
+        mov ecx, 1 
 
         mov eax, f //факториал
 
         STEP1 :
-        mul esi //eax * esi
-            inc esi //инкрементируем счетчик
-            cmp esi, a //если esi=a, то конец
-            jng STEP1  // jng - прыгаем, если esi<=a
-            mov a, eax
+         mul ecx //eax * ecx
+         inc ecx //инкрементируем счетчик
+         cmp ecx, a //если ecx=a, то конец
+         jng STEP1  // jng - прыгаем, если ecx<=a
+         mov a, eax
     }
     cout << a << endl;
     return 0;
