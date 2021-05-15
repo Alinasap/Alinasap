@@ -12,8 +12,7 @@ int main()
 
     __asm
     {
-        mov ecx, 0; // обнуляем счетчик цикла
-        mov ecx, 1 
+        mov ecx, 1 //счетчик цикла
 
         mov eax, f //факториал
 
