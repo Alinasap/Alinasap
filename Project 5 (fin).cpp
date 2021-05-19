@@ -20,7 +20,7 @@ int main()
          mul ecx //eax * ecx
          inc ecx //инкрементируем счетчик
          cmp a, ecx
-            jge STEP1; // прыгаем, если ecx<=a
+            jae STEP1; // прыгаем, если ecx<=a
          mov a, eax
     }
     cout << a << endl;
